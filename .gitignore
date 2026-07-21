@@ -1,0 +1,18 @@
+# Java
+/target/
+/bin/
+*.class
+*.log
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Notes data - don't push private notes
+/notes-data/
+E:/notes-data/
+
+# OS
+.DS_Store
+Thumbs.db
