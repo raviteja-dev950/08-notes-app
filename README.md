@@ -17,10 +17,7 @@
 - ✅ **Delete** - Safe delete with confirmation
 
 ### 🖼️ Demo
-**Create & List:**
-![Demo1](screenshots/demo1.png)
-
-**Read, Search & Delete:**
-![Demo2](screenshots/demo2.png)
+![demo1](screenshots/demo1.png)
+![demo2](screenshots/demo2.png)
 
 File Saved Example (`E:/notes-data/JAVA.txt`):
